@@ -1,0 +1,14 @@
+{
+  "name": "nodetutorial",
+  "version": "1.0.0",
+  "description": "Node tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Lo",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^10.0.0"
+  }
+}
